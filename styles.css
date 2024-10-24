@@ -13,22 +13,42 @@ hr {
 .peg {
     height: 32px;
     width: 32px;
+    margin: 32px;
+}
+
+.peg-container {
+    display: flex;
+    flex-direction: row;
+    background-color: cadetblue;
+
+}
+
+#red {
+    background-color: red;
+}
+
+#orange {
+    background-color: orange;
 }
 
 #yellow {
     background-color: yellow;
 }
 
-#blue {
-    background-color: blue;
-}
-
 #green {
     background-color: green;
 }
 
-#red {
-    background-color: red;
+#blue {
+    background-color: blue;
+}
+
+#indigo {
+    background-color: indigo;
+}
+
+#violet {
+    background-color: violet;
 }
 
 .guess {
