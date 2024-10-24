@@ -1,0 +1,46 @@
+:root {
+
+}
+
+* {
+
+}
+
+hr {
+    border: 1px;
+}
+
+.peg {
+    height: 32px;
+    width: 32px;
+}
+
+#yellow {
+    background-color: yellow;
+}
+
+#blue {
+    background-color: blue;
+}
+
+#green {
+    background-color: green;
+}
+
+#red {
+    background-color: red;
+}
+
+.guess {
+    background-color: black;
+    height: 32px;
+    width: 32px;
+}
+
+.dropzone {
+
+}
+
+#a1 {
+
+}
